@@ -2,6 +2,8 @@
 
 Welcome to the NFT Marketplace project repository. This platform provides a seamless and secure environment for trading NFTs, leveraging the Ethereum blockchain and cloud services.
 
+![NFT Marketplace](https://github.com/KaushalNaresh/NFT_Marketplace/blob/main/src/images/HomeScreen.png)
+
 ## Overview
 
 The NFT Marketplace is a full-stack application that allows users to mint, buy, and sell NFTs. The front-end is built with Next.js, providing a responsive and interactive user experience, while the back-end is a set of Solidity smart contracts on the Ethereum blockchain, ensuring secure and transparent transactions.
