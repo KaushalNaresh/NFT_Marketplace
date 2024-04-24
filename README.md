@@ -1,6 +1,6 @@
 # NFT Marketplace
 
-Welcome to the NFT Marketplace project repository. This platform provides a seamless and secure environment for trading NFTs, leveraging the Ethereum blockchain and cloud services.
+Welcome to the NFT Marketplace project repository. This platform is part of ECS 265 course project that provides a seamless and secure environment for trading NFTs, leveraging the Ethereum blockchain and cloud services.
 
 ![NFT Marketplace](https://github.com/KaushalNaresh/NFT_Marketplace/blob/main/src/images/HomeScreen.png)
 
@@ -54,5 +54,6 @@ The project is containerized using Docker and orchestrated with Kubernetes, allo
 
 ## Contact
 
+For further details you can refer this [Medium Blog](https://medium.com/@vikramansenn/resource-efficient-nft-marketplace-on-ethereum-amazon-web-services-89312798e857)
 For any queries or further assistance, please contact [Naresh Kumar Kaushal](09naresh3@gmail.com).
 
