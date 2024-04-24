@@ -54,6 +54,6 @@ The project is containerized using Docker and orchestrated with Kubernetes, allo
 
 ## Contact
 
-For further details you can refer this [Medium Blog](https://medium.com/@vikramansenn/resource-efficient-nft-marketplace-on-ethereum-amazon-web-services-89312798e857)
+For further details you can refer this [Medium Blog](https://medium.com/@vikramansenn/resource-efficient-nft-marketplace-on-ethereum-amazon-web-services-89312798e857)  
 For any queries or further assistance, please contact [Naresh Kumar Kaushal](09naresh3@gmail.com).
 
